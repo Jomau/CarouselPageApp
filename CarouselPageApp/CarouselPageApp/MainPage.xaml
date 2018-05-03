@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CarouselPageApp"
+             x:Class="CarouselPageApp.MainPage">
+
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="github.png"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="githubdesktop.png"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="gitlab.png"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="icon.png"/>
+        </StackLayout>
+    </ContentPage>
+  
+
+</CarouselPage>
