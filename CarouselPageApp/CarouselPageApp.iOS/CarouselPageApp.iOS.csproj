@@ -128,4 +128,13 @@
       <Name>CarouselPageApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gitlab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\githubdesktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\github.png" />
+  </ItemGroup>
 </Project>
